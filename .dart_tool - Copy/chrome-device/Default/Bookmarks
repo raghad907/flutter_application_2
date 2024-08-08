@@ -1,0 +1,89 @@
+{
+   "checksum": "417c647f1e341034bd108379d3166a6b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13367598873153755",
+            "date_last_used": "0",
+            "guid": "1ea87c1a-b6af-423e-be62-0bb334fa3bb3",
+            "id": "7",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/dell.html"
+         }, {
+            "children": [ {
+               "date_added": "13317068618095608",
+               "date_last_used": "0",
+               "guid": "9da99bf6-eb09-4185-8ad3-1b088d414708",
+               "id": "9",
+               "name": "Dell Auction",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.dellauction.com/"
+            }, {
+               "date_added": "13317068618109808",
+               "date_last_used": "0",
+               "guid": "a4b1e4c2-ddb3-4c20-8b8a-d4d52fd9f9f2",
+               "id": "11",
+               "name": "Dell",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www1.euro.dell.com/content/default.aspx?c=sa&l=ar&s=gen"
+            }, {
+               "date_added": "13317068618160062",
+               "date_last_used": "0",
+               "guid": "ea5165a0-e3b3-4316-9a4b-cabcd6a28022",
+               "id": "13",
+               "name": "Support.Dell.Com",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.dell.com/support/home"
+            } ],
+            "date_added": "13367598878450502",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "aa52f62f-2fcb-4274-b31d-00a3686d1ef8",
+            "id": "8",
+            "name": "Dell",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13367598872659857",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13367598872659865",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13367598872659867",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
